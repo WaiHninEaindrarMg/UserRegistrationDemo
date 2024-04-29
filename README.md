@@ -52,5 +52,5 @@ This is result video (user registration login form appeared)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE.md file for details.
 
